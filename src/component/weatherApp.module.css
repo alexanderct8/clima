@@ -3,3 +3,9 @@
     height: 700px;
     margin: 100px auto;
 }
+@media screen and (max-width:425px) {
+    .weatherContainer{
+        width: 90%;
+        height: 400px;
+    }
+}
